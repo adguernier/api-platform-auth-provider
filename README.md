@@ -5,5 +5,5 @@ A simple API Platform application using a JWT authProvider to protect React-admi
 - Wait
 - When the initialization ends, go to https://localhost/admin
 - Open your devtools to see errors
-- Login wiht `admin@admin.com`, `password`
+- Login with `admin@admin.com`, `password`
 - See errors
